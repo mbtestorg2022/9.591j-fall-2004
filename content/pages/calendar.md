@@ -4,17 +4,308 @@ title: Calendar
 uid: d29e0185-0ca6-4a5a-bba8-bee57100782b
 ---
 
-| Lec # | Topics | Key DATES |
-| --- | --- | --- |
-|  {{< br >}}{{< br >}} 1 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Course Overview {{< br >}}{{< br >}} Experimental methods: self-paced reading, eye-tracking, event-related potentials, on-line lexical decision, cross-modal priming, brain scanning {{< br >}}{{< br >}} Modularity in Sentence Comprehension {{< br >}}{{< br >}} Lexical and structural theories of ambiguity resolution in sentence comprehension {{< br >}}{{< br >}} The effects of plausibility, context and lexical frequency in on-line processing {{< br >}}{{< br >}}  |  |
-|  {{< br >}}{{< br >}} 2 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Resources and Sentence Complexity {{< br >}}{{< br >}} The Complexity of Unambiguous Sentences {{< br >}}{{< br >}} The Dependency Locality Theory {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Short review paper 1 due {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 3 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Working Memory and Sentence Comprehension {{< br >}}{{< br >}} Guest Lecturer: Evelina Fedorenko {{< br >}}{{< br >}}  |  |
-|  {{< br >}}{{< br >}} 4 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Resources and Ambiguity Resolution {{< br >}}{{< br >}} The Serial / Parallel Question {{< br >}}{{< br >}}  |  |
-|  {{< br >}}{{< br >}} 5 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Experience / Frequency and Ambiguity Resolution {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Short review paper 2 due {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 6 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Symbolic Computational Approaches to Language Parsing {{< br >}}{{< br >}} Parsing Strategies {{< br >}}{{< br >}} Shift-reduce Parsing {{< br >}}{{< br >}}  |  |
-|  {{< br >}}{{< br >}} 7 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Referential and Contextual Issues in Sentence Comprehension {{< br >}}{{< br >}}  |  |
-|  {{< br >}}{{< br >}} 8 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Event-related Potentials (ERPs) and Other Brain-imaging Methods Investigating Sentence Comprehension {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Short paper 3 due {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 9 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Representational Issues in Syntax: Behavioral evidence for the existence of empty categories {{< br >}}{{< br >}} Behavioral Evidence that English is Context-free {{< br >}}{{< br >}}  |  |
-|  {{< br >}}{{< br >}} 10 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Parallel Distributed Processing Models of Sentence Comprehension {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Short paper 4 due {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 11 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Discourse Coherence {{< br >}}{{< br >}} Guest Lecturer: Florian Wolf {{< br >}}{{< br >}}  |  |
-|  {{< br >}}{{< br >}} 12 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Prosodic Structure and Sentence Comprehension {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Final paper due three days after lecture 12 {{< br >}}{{< br >}}
+{{< tableopen >}}
+
+{{< tableclose >}}
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Lec #
+{{< thclose >}}
+{{< thopen >}}
+Topics
+{{< thclose >}}
+{{< thopen >}}
+Key DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+1
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Course Overview
+
+Experimental methods: self-paced reading, eye-tracking, event-related potentials, on-line lexical decision, cross-modal priming, brain scanning
+
+Modularity in Sentence Comprehension
+
+Lexical and structural theories of ambiguity resolution in sentence comprehension
+
+The effects of plausibility, context and lexical frequency in on-line processing
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+2
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Resources and Sentence Complexity
+
+The Complexity of Unambiguous Sentences
+
+The Dependency Locality Theory
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Short review paper 1 due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+3
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Working Memory and Sentence Comprehension
+
+Guest Lecturer: Evelina Fedorenko
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+4
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Resources and Ambiguity Resolution
+
+The Serial / Parallel Question
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+5
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Experience / Frequency and Ambiguity Resolution
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Short review paper 2 due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+6
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Symbolic Computational Approaches to Language Parsing
+
+Parsing Strategies
+
+Shift-reduce Parsing
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+7
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Referential and Contextual Issues in Sentence Comprehension
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+8
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Event-related Potentials (ERPs) and Other Brain-imaging Methods Investigating Sentence Comprehension
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Short paper 3 due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+9
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Representational Issues in Syntax: Behavioral evidence for the existence of empty categories
+
+Behavioral Evidence that English is Context-free
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+10
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Parallel Distributed Processing Models of Sentence Comprehension
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Short paper 4 due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+11
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Discourse Coherence
+
+Guest Lecturer: Florian Wolf
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+12
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Prosodic Structure and Sentence Comprehension
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Final paper due three days after lecture 12
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
