@@ -27,6 +27,7 @@ description: 'Lecture presentation covering the following topics: Nested (or cen
   lawyer", Conclusions and Sentence processing: Summary.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/9-591j-language-processing-fall-2004/b1504ed7d33217b90b616c0de9b5272a_0920_res_sen_com.pdf
 file_type: application/pdf
+parent_uid: aa44dd02-db91-b2ea-f5a4-cec1a2777037
 resourcetype: Document
 title: 0920_res_sen_com.pdf
 uid: b1504ed7-d332-17b9-0b61-6c0de9b5272a

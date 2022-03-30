@@ -6,6 +6,7 @@ description: 'Lecture presentation covering the following topics: How to address
   context and lexical frequency in on-line processing.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/9-591j-language-processing-fall-2004/d453c3c2bd966f9bd5be564fd06331bb_0913_sent_compr.pdf
 file_type: application/pdf
+parent_uid: aa44dd02-db91-b2ea-f5a4-cec1a2777037
 resourcetype: Document
 title: 0913_sent_compr.pdf
 uid: d453c3c2-bd96-6f9b-d5be-564fd06331bb

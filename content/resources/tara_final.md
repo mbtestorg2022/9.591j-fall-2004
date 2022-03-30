@@ -8,6 +8,7 @@ description: 'Example of student work for the final project / term paper assignm
   experimental design, A different perspective: ullman et al. (1997), conclusions.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/9-591j-language-processing-fall-2004/3376c707cd1eeaae5257e516187d4849_tara_final.pdf
 file_type: application/pdf
+parent_uid: e56924c2-4b98-0135-1a8a-3a075da2f03c
 resourcetype: Document
 title: tara_final.pdf
 uid: 3376c707-cd1e-eaae-5257-e516187d4849

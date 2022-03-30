@@ -5,6 +5,7 @@ description: Example of student work for the fourth paper assignment, courtesy o
   psycholinguistics.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/9-591j-language-processing-fall-2004/a643c3abd0b2fa40d2c793d142cd09d6_paper4.pdf
 file_type: application/pdf
+parent_uid: e56924c2-4b98-0135-1a8a-3a075da2f03c
 resourcetype: Document
 title: paper4.pdf
 uid: a643c3ab-d0b2-fa40-d2c7-93d142cd09d6
